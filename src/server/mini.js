@@ -1,4 +1,4 @@
-ar connect = require('connect')
+var connect = require('connect')
 var http = require('http')
 
 var app = connect()
